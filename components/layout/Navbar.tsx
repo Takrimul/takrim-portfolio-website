@@ -35,7 +35,7 @@ export function Navbar() {
             <a href="#projects" className="hover:text-primary cursor-pointer transition-colors">Projects</a>
             <a href="#stack" className="hover:text-primary cursor-pointer transition-colors">Stack</a>
             <a href="#research" className="hover:text-primary cursor-pointer transition-colors">Research</a>
-            <a href="mailto:takrimul@example.com" className="hover:text-primary cursor-pointer transition-colors">Contact</a>
+            <a href="mailto:takrim9083@gmail.com" className="hover:text-primary cursor-pointer transition-colors">Contact</a>
           </ul>
 
           <button
